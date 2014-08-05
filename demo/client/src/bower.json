@@ -1,0 +1,13 @@
+{
+    "name": "gch-ng-component-demo",
+    "version": "0.0.1",
+    "author": "someone@something.com",
+    "description": "The demo project of.",
+    "keywords": [
+        "AngularJS"
+    ],
+    "license": "MIT",
+    "dependencies": {
+        "angular": null
+    }
+}
