@@ -1,0 +1,22 @@
+{
+  "name": "gch-ng-component",
+  "version": "0.0.1",
+  "author": "My Name myName@myEmailaddress.com",
+  "description": "This is an example package of how to produce and angular component.",
+  "main": "['src/scripts/gch-ng-component.js', 'src/styles/gch-ng-component.css']",
+  "keywords": [
+    "AngularJS"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "tests",
+    "demo",
+    ".gitignore",
+    ".jshintrc",
+    "Gruntfile.js",
+    "package.json"
+  ],
+  "dependencies": {
+    "angular": null
+  }
+}
