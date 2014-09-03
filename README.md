@@ -1,4 +1,4 @@
 gch-ng-component
 ================
 
-SEED project for creating angular components
+SEED project for creating angular components -- yess
